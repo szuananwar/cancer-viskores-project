@@ -1,0 +1,2 @@
+model,accuracy,precision,recall,f1_score
+Baseline 2D CNN,0.89625,0.8986060308004318,0.89625,0.8946117084552074

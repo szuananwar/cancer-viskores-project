@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+data/archive/
+data/simulated_3d/
+data/vtk/
+data/vti/
+
+viskores_feature_extraction/build/
+
+*.keras
