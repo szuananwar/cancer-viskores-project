@@ -32,3 +32,7 @@ python3 scripts/train_viskores_feature_model.py
 
 ```bash
 pip freeze > requirements.txt
+
+### 5. Workflow
+
+![Workflow Diagram](docs/workflow_diagram.png)
