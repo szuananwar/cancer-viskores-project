@@ -31,7 +31,7 @@ python3 scripts/volume_generation/convert_npy_to_vtk.py
 ./scripts/run_viskores_all.sh
 python3 scripts/extract_enhanced_features.py
 python3 scripts/train_viskores_feature_model.py
-
+```
 ### 4. Create requirements file
 
 ```bash
@@ -39,4 +39,4 @@ pip freeze > requirements.txt
 
 ### 5. Workflow
 
-![Workflow Diagram](docs/workflow_diagram.png)
+![Workflow Diagram](docs/workflow_overview.png)
