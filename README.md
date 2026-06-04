@@ -4,7 +4,7 @@ Brain MRI tumor classification comparing a baseline 2D CNN model with a Viskores
 
 ## Workflow
 
-![Brain Tumor Viskores Workflow](docks/workflow_overview.png)
+![Brain Tumor Viskores Workflow](docs/workflow_overview.png)
 
 ## Pipelines
 
