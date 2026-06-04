@@ -2,6 +2,10 @@
 
 Brain MRI tumor classification comparing a baseline 2D CNN model with a Viskores-assisted simulated 3D feature extraction pipeline.
 
+## Workflow
+
+![Brain Tumor Viskores Workflow](workflow_overview.png)
+
 ## Pipelines
 
 ### Pipeline 1: Baseline 2D CNN
